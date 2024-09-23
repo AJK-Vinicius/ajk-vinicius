@@ -1,16 +1,16 @@
-<h1 align="left">Hello</h1>
+<h1 align="left">Olá</h1>
 
 ###
 
-<p align="left">My name is Vinícius Batista and I'm a Developer Júnior, from Brazil.</p>
+<p align="left">Meu nome é Vinícius Batista. Sou um Desenvolvedor Júnior. Moro no Brasil.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning TypeScript.<br>🎯 Goal: Be increasingly prepared to enter the job market and take advantage of the opportunities that arise.
+<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo TypeScript.<br>🎯 Objetivo: Estar cada vez mais preparado para ingressar no mercado de trabalho e aproveitar as oportunidades que surgirem.
 <br></p>
 
 ###
@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu codifico com</h2>
 
 ###
 
