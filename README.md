@@ -43,3 +43,10 @@
 </div>
 
 ###
+
+# 📨 Entre em Contato
+
+Se você tiver dúvidas, sugestões ou quiser trocar ideias, sinta-se à vontade para entrar em contato!
+
+- 📧 **Email**: vinibatistars@gmail.com
+- 💼 **LinkedIn**: www.linkedin.com/in/vinícius-batista-050627ajk
