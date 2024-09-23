@@ -41,10 +41,9 @@
 </div>
 
 ###
+<h2 align="left">📨 Entre em Contato</h2>
 
-# 📨 Entre em Contato
-
-Se você tiver dúvidas, sugestões ou quiser trocar ideias, sinta-se à vontade para entrar em contato!
+<p align="left">Se você tiver dúvidas, sugestões ou quiser trocar ideias, sinta-se à vontade para entrar em contato!</p>
 
 - 📧 **Email**: vinibatistars@gmail.com
 - 💼 **LinkedIn**: www.linkedin.com/in/vinícius-batista-050627ajk
