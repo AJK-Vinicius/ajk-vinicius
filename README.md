@@ -10,8 +10,9 @@
 
 ###
 
-<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo TypeScript.<br>🎯 Objetivo: Estar cada vez mais preparado para ingressar no mercado de trabalho e aproveitar as oportunidades que surgirem.
-<br></p>
+<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo TypeScript.<br>🎯 Objetivo: Estar cada vez mais preparado para ingressar no mercado de trabalho e aproveitar as oportunidades que surgirem.<br><p align="left">
+🔗 Confira meus projetos e estudos: <a href="https://github.com/AJK-Vinicius/Vin-ProjetosAjk/blob/main/README.md">Repositório</a>
+</p></p>
 
 ###
 
@@ -41,6 +42,7 @@
 </div>
 
 ###
+
 <h2 align="left">📨 Entre em Contato</h2>
 
 <p align="left">Se você tiver dúvidas, sugestões ou quiser trocar ideias, sinta-se à vontade para entrar em contato!</p>
