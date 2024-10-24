@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo TypeScript.<br>🎯 Objetivo: Estar cada vez mais preparado para ingressar no mercado de trabalho e aproveitar as oportunidades que surgirem.<br><p align="left">
+<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo React Native.<br>🎯 Objetivo: Estar cada vez mais preparado para ingressar no mercado de trabalho e aproveitar as oportunidades que surgirem.<br><p align="left">
 🔗 Confira meus projetos e estudos: <a href="https://github.com/AJK-Vinicius/Vin-ProjetosAjk/blob/main/README.md">Repositório</a>
 </p></p>
 
@@ -39,6 +39,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="mysql logo"  />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  height="40" alt="react-native" /> 
 </div>
 
 ###
