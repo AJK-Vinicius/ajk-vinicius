@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo React Native.<br>🎯 Objetivo: Estar cada vez mais preparado para ingressar no mercado de trabalho e aproveitar as oportunidades que surgirem.<br><p align="left">
+<p align="left">✨  Criando bugs desde 2021.<br>📚 Atualmente estou aprendendo React Native.<br>🎯 Objetivo: Estar cada vez mais preparado para mercado de trabalho e aproveitar as oportunidades que surgirem.<br><p align="left">
 🔗 Confira meus projetos e estudos: <a href="https://github.com/AJK-Vinicius/Vin-ProjetosAjk/blob/main/README.md">Repositório</a>
 </p></p>
 
